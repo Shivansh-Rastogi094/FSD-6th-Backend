@@ -1,0 +1,1 @@
+This repo contains my codes in fsd classes of 6th sem
